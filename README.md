@@ -1,6 +1,6 @@
-Movie List App - Android End-of-Term Project 🚀
+Movie List App - Android Final Project 🚀
 
-This Android application, developed as an end-of-term project, demonstrates how to connect an Android application to a backend server, consume a RESTful API, and display the results in a modern, scrollable list using Jetpack Compose. It showcases key aspects of modern Android development, including efficient UI rendering and robust data handling.
+Hi this is My Final project for android class in university this is a simple android app with kotlin and jetpack compose that can fetch the movies list with api from the server and show the list in a LazyColumn
 
 🌟 Features
 
@@ -16,9 +16,6 @@ This Android application, developed as an end-of-term project, demonstrates how 
 
     Can easily be adapted for any similar data API: Designed for flexibility and reusability with other API endpoints.
 
-🖼️ Demo
-
-Below is a screenshot of the main screen, showing fetched movies in a well-designed list:
 
 🚀 Getting Started
 
@@ -57,6 +54,8 @@ Plaintext
 
 http://45.139.11.115:5852/api/collections/movie/records
 
+i don't know whene you want to use this but i think that won't work at that time so change it with your own api key
+
 Each item returned by the API typically contains the following structure:
 JSON
 
@@ -79,7 +78,7 @@ Note on API URLs: If you are running your backend API locally, you might need to
     Clone the repository to your local machine:
     Bash
 
-git clone https://github.com/YOUR_USERNAME/project_server.git
+git clone https://github.com/hamidreza-83/Project-Server-Android.git
 
 (Remember to replace YOUR_USERNAME with your actual GitHub username after pushing the project).
 
@@ -136,4 +135,4 @@ This project serves as an excellent learning resource, helping you understand:
 
 📧 Contact
 
-For any questions or inquiries, please feel free to reach out to [Your Name/Email Address].
+For any questions or inquiries, please feel free to reach out to hamidrezafatemi383@gmail.com or @sudo_space on telegram.
